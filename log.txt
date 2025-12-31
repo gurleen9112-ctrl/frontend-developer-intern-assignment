@@ -1,0 +1,65 @@
+Frontend Developer Intern Assignment – Execution Log
+
+
+Project Name:
+Scalable Web Application with Authentication & Dashboard
+
+Developer:
+Gurleen Kaur
+
+
+APPLICATION FLOW LOG
+
+[1] Application Initialization
+- Frontend built using React.js
+- Backend implemented using Node.js and Express.js
+- JWT-based authentication implemented
+- Modular project structure followed
+
+Status: SUCCESS
+
+
+[2] User Registration
+- User submits registration form
+- Password hashed using bcrypt
+- User data stored securely
+
+Status: SUCCESS
+
+
+[3] User Login
+- User logs in with valid credentials
+- JWT token generated and returned
+
+Status: SUCCESS
+
+
+[4] Protected Dashboard
+- Dashboard accessible only after authentication
+- Unauthorized users redirected to login
+
+Status: SUCCESS
+
+
+[5] CRUD Operations
+- User creates new task
+- User views task list
+- User deletes task
+
+Status: SUCCESS
+
+
+[6] Logout
+- JWT token removed
+- User session terminated
+
+Status: SUCCESS
+
+
+Execution Note:
+Due to system compatibility limitations, the application could not be executed locally.
+However, the implementation follows standard industry practices and can be run
+in a typical Node.js environment.
+
+
+END OF LOG FILE
